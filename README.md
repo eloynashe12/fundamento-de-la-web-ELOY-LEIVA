@@ -17,3 +17,8 @@ los atributos son las propiedades y condiciones de la etiqueta
 /*<etiqueta propiedad = "valor">*/
 
 Emphasis y Strong: <strong> and <em> se utilizan a menudo dentro de los párrafos <p>
+
+
+
+
+
