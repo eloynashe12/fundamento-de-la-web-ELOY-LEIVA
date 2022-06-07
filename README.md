@@ -18,6 +18,7 @@ los atributos son las propiedades y condiciones de la etiqueta
 
 Emphasis y Strong: <strong> and <em> se utilizan a menudo dentro de los párrafos <p>
 
+Html es padre y head y body son hermanos al mismo tiempo estos dos son hermano.head es padre de tittle y body es padre de h1 y p,estos ultimos son hermanos
 
 
 
