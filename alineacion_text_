@@ -1,0 +1,41 @@
+se puede usar text-aling y text-decoration
+
+podemos ajustar la alineacion del texto usando 
+
+text-aling:left; o text-aling:center;  text-aling:right;
+
+decoraciond de texto,estilo de fuente,peso de fuente
+se puede aplicar o eliminar un subrayado de texto usando la propiedad 
+text-decoration 
+
+text-decoration:underline;
+
+text decoration:line through;
+
+text-decoration:none;
+
+podemos aplicar o elimiar cursiva usando font-style
+
+font-style: italic;
+
+font-style:normal;
+
+podemos hacer que el texto sea en negrita o angosta con fon-weigth
+
+font-weight: normal;
+
+font-weight: light;
+
+font-weight: bold;
+
+familia tipografica 
+
+hay mucho que aprender sobre las fuentes,pero por ahora centremonos en los tipos basicos
+
+font-family: serif;
+
+font-family: sans-serif;
+
+font-family: monospace
+
+font-family: cursive;
