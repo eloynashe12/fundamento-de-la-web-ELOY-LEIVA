@@ -39,3 +39,10 @@ font-family: sans-serif;
 font-family: monospace
 
 font-family: cursive;
+
+tamaños
+
+Width(ancho) height (alto0):
+Las propiedades de ancho y altura se utilizan para determinar el tamaño de tus elementos
+los valores son expresados (px) (%)
+

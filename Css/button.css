@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Search button,.Mas button,.Create button {
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.Search button {
+        border-radius: 40px 40px;
+        background-color: #fff;
+        width: 180px;
+        height: 40px;
+        color: rgb(0, 231, 193);
+        border: 2px solid rgb(0, 231, 193);
+        margin-bottom: 20px;
+        margin-top: 60px;
+        font-size: 1em;
+        font-weight: bold;
+}
+
+.Mas button {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color:rgb(0, 231, 193) ;
+    border: 2px solid rgb(0, 231, 193);
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.Create button {
+        background-color: rgb(0, 183, 255);
+        width: 250px;
+        height: 50px;
+        box-shadow: 5px 5px black;
+        color: #fff;
+        font-size: 1.25em;
+}
